@@ -9,20 +9,23 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-#Presentación
+# Presentación
 Bienvenid@ a este curso de programación. En este curso aprenderás a programar en R. Esta es la pagina princupla de este curso.
 
-#Objetivos del curso
+# Objetivos del curso
 En este curso usted aprendera a programar en Rstudio y publicar su paginas y notas en linea
 
-#Usuarios
+# Usuarios
 Profesoras y profesores, asi como personal dedicado a la publicacion de articulos e imparticion de clases
 
-#Contenido del curso
+# Contenido del curso
 Este es el contenido a revisar
 
-##Tema 1
+## Tema 1
 Contenido tema 1:
 
-##Tema 2
+## Tema 2
 Contenido tema 2:
+
+## Tema 3
+Contenido tema 3:
